@@ -1,0 +1,101 @@
+10
+
+dir
+117
+http://cocos2d-android.googlecode.com/svn/trunk/src/org/cocos2d
+http://cocos2d-android.googlecode.com/svn
+
+
+
+2010-11-16T00:48:34.118153Z
+117
+CardillosCreations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2ac3bcc4-a19b-11de-ba4d-5dbaeb624ccf
+
+layers
+dir
+
+utils
+dir
+
+actions
+dir
+
+tests
+dir
+
+types
+dir
+
+opengl
+dir
+
+events
+dir
+
+grid
+dir
+
+menus
+dir
+
+particlesystem
+dir
+
+nodes
+dir
+
+Cocos2D.java
+file
+
+
+
+
+2011-01-18T19:13:49.437500Z
+08ea0cf689806ce859477ad0a9ad8d79
+2010-01-16T04:25:01.931773Z
+10
+philip.desegur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3880
+
+transitions
+dir
+
+box2d
+dir
+

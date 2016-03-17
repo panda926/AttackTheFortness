@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/111/trunk/src/org/cocos2d/types
+END
+CCPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/69/trunk/src/org/cocos2d/types/CCPoint.java
+END
+CCRect.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/109/trunk/src/org/cocos2d/types/CCRect.java
+END
+CCBlendFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/trunk/src/org/cocos2d/types/CCBlendFunc.java
+END
+CCColor3B.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10/trunk/src/org/cocos2d/types/CCColor3B.java
+END
+CCColor4B.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10/trunk/src/org/cocos2d/types/CCColor4B.java
+END
+CCVertex3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/src/org/cocos2d/types/CCVertex3D.java
+END
+CCTexParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/trunk/src/org/cocos2d/types/CCTexParams.java
+END
+CCBezierConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10/trunk/src/org/cocos2d/types/CCBezierConfig.java
+END
+CCSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/src/org/cocos2d/types/CCSize.java
+END
+CCV3F_C4B_T2F_Quad.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/src/org/cocos2d/types/CCV3F_C4B_T2F_Quad.java
+END
+CCRGBB.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/src/org/cocos2d/types/CCRGBB.java
+END
+CCQuad2.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/src/org/cocos2d/types/CCQuad2.java
+END
+CCQuad3.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/src/org/cocos2d/types/CCQuad3.java
+END
+CCGridSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/src/org/cocos2d/types/CCGridSize.java
+END
+CCPointSprite.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/org/cocos2d/types/CCPointSprite.java
+END
+NoninvertibleTransformException.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10/trunk/src/org/cocos2d/types/NoninvertibleTransformException.java
+END
+CCMacros.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111/trunk/src/org/cocos2d/types/CCMacros.java
+END
+CCColorF.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/80/trunk/src/org/cocos2d/types/CCColorF.java
+END
+CCPointSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/trunk/src/org/cocos2d/types/CCPointSize.java
+END
+CCAffineTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/65/trunk/src/org/cocos2d/types/CCAffineTransform.java
+END
+Copyable.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/src/org/cocos2d/types/Copyable.java
+END

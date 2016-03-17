@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/108/trunk/src/org/cocos2d/opengl
+END
+TextureAtlas.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/87/trunk/src/org/cocos2d/opengl/TextureAtlas.java
+END
+Texture2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/108/trunk/src/org/cocos2d/opengl/Texture2D.java
+END
+GLU.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/65/trunk/src/org/cocos2d/opengl/GLU.java
+END
+OpenGLViewCantInitException.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10/trunk/src/org/cocos2d/opengl/OpenGLViewCantInitException.java
+END
+Camera.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/70/trunk/src/org/cocos2d/opengl/Camera.java
+END
+OpenGLViewCantAttachException.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10/trunk/src/org/cocos2d/opengl/OpenGLViewCantAttachException.java
+END
+GLDebugWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/trunk/src/org/cocos2d/opengl/GLDebugWrapper.java
+END
+TGA.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/89/trunk/src/org/cocos2d/opengl/TGA.java
+END
+Primitives.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/69/trunk/src/org/cocos2d/opengl/Primitives.java
+END
+CCGLSurfaceView.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/94/trunk/src/org/cocos2d/opengl/CCGLSurfaceView.java
+END
+OpenGLViewNotAttachedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10/trunk/src/org/cocos2d/opengl/OpenGLViewNotAttachedException.java
+END
+OpenGLViewCantDetachException.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10/trunk/src/org/cocos2d/opengl/OpenGLViewCantDetachException.java
+END
+OpenGLViewAlreadyAttachedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10/trunk/src/org/cocos2d/opengl/OpenGLViewAlreadyAttachedException.java
+END

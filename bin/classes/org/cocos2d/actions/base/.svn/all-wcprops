@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/66/trunk/src/org/cocos2d/actions/base
+END
+Speed.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/66/trunk/src/org/cocos2d/actions/base/Speed.java
+END
+RepeatForever.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10/trunk/src/org/cocos2d/actions/base/RepeatForever.java
+END
+FiniteTimeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10/trunk/src/org/cocos2d/actions/base/FiniteTimeAction.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/trunk/src/org/cocos2d/actions/base/Action.java
+END

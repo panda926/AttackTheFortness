@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/61/trunk/src/org/cocos2d/transitions
+END
+TurnOffTilesTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/42/trunk/src/org/cocos2d/transitions/TurnOffTilesTransition.java
+END
+PageTurnTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/61/trunk/src/org/cocos2d/transitions/PageTurnTransition.java
+END
+FadeDownTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/42/trunk/src/org/cocos2d/transitions/FadeDownTransition.java
+END
+ZoomFlipXTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/42/trunk/src/org/cocos2d/transitions/ZoomFlipXTransition.java
+END
+OrientedTransitionScene.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/42/trunk/src/org/cocos2d/transitions/OrientedTransitionScene.java
+END
+RotoZoomTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/42/trunk/src/org/cocos2d/transitions/RotoZoomTransition.java
+END
+ZoomFlipYTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/42/trunk/src/org/cocos2d/transitions/ZoomFlipYTransition.java
+END
+SlideInBTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/42/trunk/src/org/cocos2d/transitions/SlideInBTransition.java
+END
+ShrinkGrowTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/42/trunk/src/org/cocos2d/transitions/ShrinkGrowTransition.java
+END
+TransitionScene.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/org/cocos2d/transitions/TransitionScene.java
+END
+FadeTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/42/trunk/src/org/cocos2d/transitions/FadeTransition.java
+END
+MoveInBTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/42/trunk/src/org/cocos2d/transitions/MoveInBTransition.java
+END
+SlideInLTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/42/trunk/src/org/cocos2d/transitions/SlideInLTransition.java
+END
+FlipAngularTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/42/trunk/src/org/cocos2d/transitions/FlipAngularTransition.java
+END
+FadeUpTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10/trunk/src/org/cocos2d/transitions/FadeUpTransition.java
+END
+FadeTRTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/42/trunk/src/org/cocos2d/transitions/FadeTRTransition.java
+END
+SplitRowsTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10/trunk/src/org/cocos2d/transitions/SplitRowsTransition.java
+END
+MoveInLTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/42/trunk/src/org/cocos2d/transitions/MoveInLTransition.java
+END
+SlideInRTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/42/trunk/src/org/cocos2d/transitions/SlideInRTransition.java
+END
+ZoomFlipAngularTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/42/trunk/src/org/cocos2d/transitions/ZoomFlipAngularTransition.java
+END
+SlideInTTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/42/trunk/src/org/cocos2d/transitions/SlideInTTransition.java
+END
+SplitColsTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10/trunk/src/org/cocos2d/transitions/SplitColsTransition.java
+END
+FadeBLTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/42/trunk/src/org/cocos2d/transitions/FadeBLTransition.java
+END
+MoveInRTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/42/trunk/src/org/cocos2d/transitions/MoveInRTransition.java
+END
+JumpZoomTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/42/trunk/src/org/cocos2d/transitions/JumpZoomTransition.java
+END
+MoveInTTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/42/trunk/src/org/cocos2d/transitions/MoveInTTransition.java
+END
+FlipXTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/42/trunk/src/org/cocos2d/transitions/FlipXTransition.java
+END
+FlipYTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/42/trunk/src/org/cocos2d/transitions/FlipYTransition.java
+END

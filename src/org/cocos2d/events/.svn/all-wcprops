@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/65/trunk/src/org/cocos2d/events
+END
+TouchHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/65/trunk/src/org/cocos2d/events/TouchHandler.java
+END
+TouchDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/46/trunk/src/org/cocos2d/events/TouchDispatcher.java
+END
+TouchDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/46/trunk/src/org/cocos2d/events/TouchDelegate.java
+END

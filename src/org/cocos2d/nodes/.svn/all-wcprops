@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/117/trunk/src/org/cocos2d/nodes
+END
+RenderTexture.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/90/trunk/src/org/cocos2d/nodes/RenderTexture.java
+END
+LabelAtlas.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/115/trunk/src/org/cocos2d/nodes/LabelAtlas.java
+END
+AtlasAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10/trunk/src/org/cocos2d/nodes/AtlasAnimation.java
+END
+Sprite.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/36/trunk/src/org/cocos2d/nodes/Sprite.java
+END
+AtlasSpriteFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12/trunk/src/org/cocos2d/nodes/AtlasSpriteFrame.java
+END
+TextureNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/115/trunk/src/org/cocos2d/nodes/TextureNode.java
+END
+AtlasNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/65/trunk/src/org/cocos2d/nodes/AtlasNode.java
+END
+ParallaxNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/62/trunk/src/org/cocos2d/nodes/ParallaxNode.java
+END
+Ribbon.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/69/trunk/src/org/cocos2d/nodes/Ribbon.java
+END
+Director.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/116/trunk/src/org/cocos2d/nodes/Director.java
+END
+CocosNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/117/trunk/src/org/cocos2d/nodes/CocosNode.java
+END
+Label.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/65/trunk/src/org/cocos2d/nodes/Label.java
+END
+Animation.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10/trunk/src/org/cocos2d/nodes/Animation.java
+END
+MotionStreak.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/69/trunk/src/org/cocos2d/nodes/MotionStreak.java
+END
+TileMapAtlas.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/91/trunk/src/org/cocos2d/nodes/TileMapAtlas.java
+END
+AtlasSpriteManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/113/trunk/src/org/cocos2d/nodes/AtlasSpriteManager.java
+END
+AtlasSprite.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/111/trunk/src/org/cocos2d/nodes/AtlasSprite.java
+END
+TextureManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/67/trunk/src/org/cocos2d/nodes/TextureManager.java
+END
+Scene.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/37/trunk/src/org/cocos2d/nodes/Scene.java
+END
